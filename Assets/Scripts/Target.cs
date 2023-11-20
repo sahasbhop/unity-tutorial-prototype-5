@@ -13,7 +13,6 @@ public class Target : MonoBehaviour
     private const float ScreenWidthRange = 4;
     private const float SpawnPositionY = -1;
 
-
     private void Start()
     {
         _rigidbody = GetComponent<Rigidbody>();
